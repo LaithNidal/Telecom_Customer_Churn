@@ -1,4 +1,4 @@
-# Telecom_Customer_Churn : 
+# Telecom_Customer_Churn : Supervised ML Models to Predict Customer Churn 
 
 ## 📊Project Overview
 This project aims to utilize **Supervised Binary Classification Machine Learning models** to predict customer churn behavior. The aim is to identify key factors contributing to customer attrition and build predictinve models to accurately classifiy weather a customer is likely to churn. 

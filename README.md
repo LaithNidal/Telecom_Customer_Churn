@@ -13,20 +13,16 @@ This project aims to utilize unsupervised Binary Classification Machine Learning
 
  ## 🧠 Methodology (Notebook Description)
  The note books follows a complete data analysis and modelling pipeline, including: 
- 1. Exploratory Data Analysis (EDA) - Visualized key trends and relationships using pandas and matplotlib.
- 2. Data Cleaning  - ensuring data consistency, handling missing values, standerdized column formatting for training/ test split to be fitted by ML Models.
+ 1. Exploratory Data Analysis (EDA) - Visualized key trends and relationships using **pandas and matplotlib **.
+ 2. Data Cleaning  - **ensuring data consistency, handling missing values and standerdizing column formatting** for training/ test split to be fitted by ML Models.
  3. Model Training – Built and compared multiple binary classification models:
 
       * XGBoost Classifier 
       * AdaBoost Classifier
       * Support Vector Classifier (SVC) 
-      *
-      *
       * Random Forest Classifier (RFC)
 
+ 4.  Model Evaluation – Evaluated models using accuracy and precision metrics averaged across 50 random states.
+ 5. Hyperparameter Optimization – Applied **Optuna** to fine-tune the Random Forest model, achieving a best accuracy of **85%**.
 
-
-4. Model Evaluation – Evaluated models using accuracy and precision metrics averaged across 50 random states.
-
-5. Hyperparameter Optimization – Applied Optuna to fine-tune the Random Forest model, achieving a best accuracy of 85%.
 

@@ -1,6 +1,6 @@
 # Telecom_Customer_Churn
 * The dataset contains information about:
-  *  customer who left within past month - this column is denoted as "Churn".
+  *  customers who left a ficiticious telecommunication compnay within past month - this column is denoted as "Churn".
   *  Demographic Information about customer, gender, age range, and if they have partners and dependents.
   *  Services each customer has signed up for :  phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
   *  Customer account information such as :  how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges.
